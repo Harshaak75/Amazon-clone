@@ -1,2 +1,2 @@
-# Amazon clone
+# clone
  My first ecommerce website clone.
